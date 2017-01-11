@@ -1,1 +1,3 @@
-<?php adsađ ?>
+<?php
+
+echo "Hello world!"
