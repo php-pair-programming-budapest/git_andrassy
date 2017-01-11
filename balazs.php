@@ -1,2 +1,2 @@
 <?php
-echo "Andrássy Pizza";
+echo "Andrássy Spagetti";
